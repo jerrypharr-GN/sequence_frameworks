@@ -238,29 +238,33 @@ Provide 2-4 POVs (Point of View) structured as follows:
 
 ### 5.4. Differentiation
 
-- This is a description of how the client company is different and better than other similar solutions -- as it relates to the account being described in this brief.
-- Whenever possible, try to categorize the differentiators as one of the following:
-        - Unique -- only they do it
-        - Comparative -- others do it too, but the client does is differently and/or better
-        - Holistic -- this is related to the overall company, not the product/solution (e.g., reputation, growth, executive team, length in business)
-- The primary sources will be (a) the documentation you've been provided in this prompt, and (2) the client's website.
+This section is about the SELLING company (the vendor whose GTM this dossier serves — e.g., Lob), not the target account. Describe how the seller is different and better than other similar solutions, filtered for relevance to the target account being profiled — the content itself doesn't change per account, but which points you lead with should.
 
-| Differentiator | Why It Matters to This Account | Supporting Evidence from Our Positioning | Surface Guidance |
-|----------------|--------------------------------|----------------------------------------|-------------------|
-| [differentiator] | [relevance to their context] | [reference to positioning docs] | [Internal Only / Safe to Adapt] |
+- Whenever possible, categorize each differentiator as one of the following:
+        - Unique -- only the seller does it
+        - Comparative -- others do it too, but the seller does it differently and/or better
+        - Holistic -- this is related to the overall company, not the product/solution (e.g., reputation, growth, executive team, length in business)
+- Primary sources: the seller's own internal enablement/battlecard materials if available; otherwise the seller's website plus educated, clearly-flagged competitive inference against named competitors. If differentiation is inferred rather than sourced from real enablement material, mark Confidence accordingly and note it should be replaced once internal materials are available.
+- This content is largely static across accounts — pull from a maintained reference (e.g., `Lob_Positioning_Reference.md`) rather than re-researching from scratch on every run, and select only what's relevant to this specific target account.
+
+| Differentiator | Category | Why It Matters to This Account | Supporting Evidence | Confidence | Surface Guidance |
+|----------------|----------|--------------------------------|----------------------|------------|-------------------|
+| [differentiator] | [Unique/Comparative/Holistic] | [relevance to their context] | [source or "inferred — no internal enablement material yet"] | [High/Medium/Low] | [Internal Only / Safe to Adapt] |
 
 ### 5.5. Relevant Customer Success Stories
-- This should include any available stories about success with current customers.
-- The primary sources will be (a) the documentation you've been provided in this prompt, and (2) the client's website.
-- If possible, only include stories about customers that are somewhat similar -- either in industry, size, or problem set -- to the account being described in this brief.
+This is about the SELLING company's customers (the seller's own case studies — e.g., Lob's published customer stories), not the target account's customers.
+
+- Source from the seller's published case studies (e.g., a maintained reference pulled from the seller's case-studies page) rather than re-scraping on every run — refresh that reference periodically instead.
+- Select only stories about customers that are somewhat similar -- either in industry, size, or problem set -- to the target account being profiled.
 
 | Customer/Case Study | Relevance to This Account | Key Outcomes |
 |---------------------|--------------------------|--------------|
 | [customer name/industry] | [why this resonates] | [measurable results] |
 
 ### 5.6. Third Party Validation
-- This should include any recognition or awards from 3rd parties -- analyst firms (e.g., Gartner, Forrester), industry luminaries, etc.
-- The primary sources will be (a) the documentation you've been provided in this prompt, and (2) the client's website.
+This is about the SELLING company's recognition (e.g., Lob's analyst/industry recognition), not the target account's. Include any recognition or awards from 3rd parties -- analyst firms (e.g., Gartner, Forrester), industry luminaries, etc.
+
+- Primary sources: the seller's internal enablement materials if available, otherwise the seller's own website/press. As with 5.4, if this hasn't been researched yet for the current seller, say so explicitly rather than leaving the section silently blank or guessing at awards that can't be verified.
 - Each validation story should have a max of 100 words.
 
 ## 6. PRIOR ENGAGEMENT
