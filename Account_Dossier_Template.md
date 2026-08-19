@@ -1,4 +1,4 @@
-# Account Dossier Template
+# Account Dossier Template (v2)
 
 ## Dossier Metadata
 *Fill in before distributing. `Data Sources Connected` flags let a downstream generator know whether Section 6 is real data or a stub, without having to parse prose.*
@@ -43,9 +43,13 @@ List the following:
 - Subindustry
 
 ### 1.2. Executive Team (C-Suite)
-List the names and titles of C-suite executives found during research. Include dates when they started in the role.
+List the C-suite executives found during research.
 
 See 3.1 for department-level targeting — this section is who's already known publicly; 3.1 is who to prospect into.
+
+| Name | Title | Start Date | LinkedIn URL | Source |
+|---|---|---|---|---|
+| [name] | [title] | [date] | [url] | [source] |
 
 ### 1.3. How They Make Money
 What kinds of products and solutions does the company sell? And what kinds of departments and personas do they primarily sell to?
@@ -76,6 +80,20 @@ Summarize any recent news about the company (last 24 months):
 - Recent or potential future layoffs
 
 Do not restate an item already captured in 2.3 Compelling Events — cross-reference it instead ("see 2.3").
+
+### 1.8. Company Links
+Company-level channels found during research. Individual executive LinkedIn URLs belong in 1.2, not here.
+
+| Link Type | URL | Last Verified |
+|---|---|---|
+| Company Website | | |
+| Careers/Jobs Page | | |
+| Company LinkedIn Page | | |
+| YouTube Channel | | |
+| Instagram | | |
+| Twitter/X | | |
+| Press/Newsroom | | |
+| Investor Relations (if public) | | |
 
 ## 2. EXECUTIVE PRIORITIES
 ----
