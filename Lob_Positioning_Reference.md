@@ -1,11 +1,13 @@
 # Lob Positioning & Case Study Reference (Vendor-Side, Static)
 
-**Purpose:** Source material for Sections 5.4 (Differentiation) and 5.5 (Success Stories) of the Account Dossier Template. This document is about Lob (the seller) — it does not change per target account. The per-account Research step should select and filter from this reference, not regenerate it from scratch on every run.
+**Purpose:** Source material for Section 4.2 (Potential Use Cases), Section 5.4 (Differentiation), and Section 5.5 (Success Stories) of the Account Dossier Template. This document is about Lob (the seller) — it does not change per target account. The per-account Research step should select and filter from this reference, not regenerate it from scratch on every run.
 
-**Sourcing note:** Built from public website research and educated competitive inference — Go Nimbly does not yet have access to Lob's internal battlecards or enablement materials. Every differentiation claim below is flagged Medium confidence for that reason. Replace with sourced material once internal enablement docs are available, and re-run this reference build at that point.
+**Sourcing note:** Built from public website research and educated competitive inference — Go Nimbly does not yet have access to Lob's internal battlecards or enablement materials, and **none of this document has been reviewed or confirmed by Lob**. Every claim below is flagged Medium confidence for that reason, including the Primary Use Cases added below. Treat all of it as a working draft, not settled positioning — replace with sourced/client-confirmed material once available, and re-run this reference build at that point.
 
-**Last refreshed:** 2026-08-19
+**Last refreshed:** 2026-09-01
 **Recommended refresh cadence:** Quarterly, or whenever Lob's case-studies page or public positioning changes materially, or real internal enablement materials become available (whichever comes first).
+
+**4.2 (Potential Use Cases)** is now covered below — five primary use cases synthesized from the case study library (Section 5.5), not independently sourced beyond that.
 
 **5.6 (Third Party Validation)** is now covered below — three awards were independently confirmed via direct source; two (surfaced from a Google AI Overview) could not be independently verified and are flagged accordingly rather than asserted as fact.
 
@@ -20,6 +22,21 @@ Source: [lob.com](https://www.lob.com/)
 ## Competitors Considered
 
 PostGrid, Postie, Postalytics, Click2Mail — as specified by Jerry. Based on public research, PostGrid is likely Lob's closest direct competitor (also API-first, also claims a ~2-day SLA and enterprise compliance certifications); Postie and Postalytics compete more on marketing-campaign analytics/targeting than infrastructure; Click2Mail competes at the low end (self-serve, no minimums, less technical/enterprise-oriented).
+
+## 4.2 Source: Primary Use Cases
+
+*Synthesized from the case study library below (Section 5.5), grouped into the recurring problem patterns Lob solves for — not independently researched beyond that. Named descriptively, not by a shorthand code (e.g. "UC1") — abbreviations like that tend to leak verbatim into LLM output downstream, which reads as confusing internal jargon if it ever surfaces in a sales-facing narrative.*
+
+| Use Case | Description | Typical Buyer Pain | Representative Case Studies | Confidence |
+|---|---|---|---|---|
+| Regulatory & Compliance Mailings | Automating legally-required, time-sensitive physical mail — notices, disclosures, compliance correspondence — for organizations in regulated industries. | Manual compliance mailing is slow, error-prone, and creates real audit/regulatory risk if missed or delayed. | 120Water, Encamp, VillageCareMAX, Clover Health | Medium |
+| Healthcare Billing & Patient Communications | HIPAA-compliant patient billing statements, collections correspondence, and patient outreach at scale. | Healthcare billing/collections teams need compliant, timely mail without heavy manual overhead. | Pearly, Myriad Women's Health, Carewell | Medium |
+| Customer Retention & Win-Back Campaigns | Using direct mail to re-engage lapsed, inactive, or at-risk customers when digital channels alone aren't landing. | Digital-only retention/reactivation efforts plateau; direct mail can cut through when email/push no longer gets attention. | Branch, thredUp, Housecall Pro | Medium |
+| Acquisition & Lead Generation | Personalized direct mail as a customer acquisition or lead-gen channel, often supplementing or replacing paid digital spend. | Rising digital acquisition costs and channel saturation create demand for a high-response offline channel. | Mabel, NEXT, iExit, Inside Real Estate, Realeflow, VentureStack | Medium |
+| Identity Verification & Fraud Prevention | Physical mail (e.g. verified-address postcards) used to confirm identity/address and reduce fraudulent activity. | Marketplaces and fintechs need a trust/verification signal that purely digital channels can't provide on their own. | Couchsurfing, Booking.com, Honeydue, B-Stock | Medium |
+| Donor, Constituent & Civic Engagement | Direct mail for nonprofit donor communications, advocacy campaigns, and constituent/civic outreach. | Reaching donors, constituents, or underserved communities where mail remains a trusted, high-response channel. | Travis Manion Foundation, Congress.Cards, Resistbot, JustFix.nyc, Ameelio | Medium |
+
+---
 
 ## 5.4 Source: Differentiation
 
